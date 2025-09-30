@@ -1,0 +1,25 @@
+css is used for website styling (sunddarr)
+cascading style sheet 
+link
+color 
+backcolor
+boilerplate
+fontsize
+fontfamily kaisa dikhega
+weight broadness
+alignment
+transformation 
+multiple h1 if h1 is red all are red
+id is used to target single tag (#)
+class is a set of people who has similar charachterstics 
+(sabpe ek sath apply karte hai )(REFRENCE IS (.))
+
+include font 
+download font 
+unzip the font 
+then put font on working folder
+then made it as an familt by using font face
+and use it in it 
+
+DIV IS A CONTAINER which to make the shape of rectengle 
+(chiise ekhati hogai hai )
