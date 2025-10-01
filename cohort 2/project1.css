@@ -40,7 +40,7 @@ html,body{
       font-size: 20px;
 }
 
-#h31,#h41,#h42{
+#h31,#h32,#h43,#h44,#h41,#h42,#h51,#h52,#h53,#h54{
     background-color:white;
     width:500px;
     height:25px;
@@ -68,11 +68,35 @@ html,body{
 }
 #header4{
     background-color: rgb(242, 241, 198);
-    width:1028px;height:200px;
+    width:1028px;height:280px;
     font-size: 20px;
     padding-top:50px;
     text-align: center;
     margin:0 auto;
     text-transform: capitalize;
+    margin-bottom:30px;
 }
+#header5{
+    background-color: rgb(238, 207, 221);
+    width: 1028px;
+    height: 280px;
+    text-align: center;
+    margin:0 auto;
+    text-transform: capitalize;
+    padding-top:50px ;
+    margin-top: 55PX;
+    margin-bottom:25px;
 
+}
+#header6{
+    background-color:  rgb(215, 251, 194);
+    width: 1028px;
+    height: 280px;
+    text-align: center;
+    margin:0 auto;
+    text-transform: capitalize;
+    padding-top:50px ;
+    margin-top: 5PX;
+    margin-bottom:30px;
+
+}
