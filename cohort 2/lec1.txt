@@ -1,0 +1,120 @@
+Html= hyper text markup language 
+it is not a programing language
+use markup <>
+
+
+
+BOILER PLATE IS A QUOTE WICH WE HAVE TO WRITE BEFORE WRITING
+THE ACTUAL CODE(SHIFT+1)
+
+
+
+HEAD TAG STORE MAIN INFO INFO 
+<head>
+    <meta charset="UTF-8"> it shows charachter encoding when we host website(in wich language we write)
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    view port is used for resolution  width=devicewidth it chnages acc to device
+    resolution scale mean screen scale (zoom)
+     1 is orignal 
+    <title>Document</title>
+    it is used for an heading of page in tag 
+    
+
+</head>
+
+
+fav icon (means logo in new tab )
+
+
+
+
+
+BODY CONTAINS MAIN CONTENT OF THE WEBSITE
+(OCCURENCE) THINGS WRITTEN IN <body> tag </body>
+are display on the screen 
+
+
+
+image text audio and video are building block of WEBSITE
+
+
+<h1> heading tag</h1>
+ headings are in bold form with increasing 
+ order width
+
+
+ <p> are paragraph tag used to write content </p>
+ <b> bold tag is udesd to bold the text</b>
+ <i> italic</i><u>stand for underline</u>
+ <sup>super script 2^x something this</sup>
+ <sub> lower power ki liye use hota hai </sub>
+<p> lorem x is used to insert ramdon text in html</p>
+
+lists 
+
+oderd list (contains order in input)<ol></ol> with serial no 1,2,,3
+unoderd list (not contains order in list )<ul></ul>
+<li> is a list item </li>
+
+
+A tag <a href="link "> </a> anchor tag 
+it is used to add hyper links in website 
+"attribute" used to take info of a anchoe tag
+href=hyper link refrence 
+
+
+to change the opening tab or if you want to change the tab while
+opening href we use target="_blank"
+as example:
+<a target="_blank" href="gpt linkk">click here to open gpt </a>
+
+<br> tag is used to break line it only opens 
+<img scr="" alt=""> this tag is used to conatn image in website
+src meas source and alt mean alternate if img not works is shows some message 
+
+manipulate image size 
+we use height and width tag in img tag
+as example
+<img height="300" width="300" src="link of image " alt="photo of panda"
+if we want to add downloaded image we use./ as suggestion and 
+give it as a source
+
+video tag is used to add video 
+we use auto play option to auto play it 
+we use loop to play video multiply
+and muted to mute video
+
+iframe  to run video on through the internet 
+it used components like allow ="autoplay pic in "
+mode main attributr is allow full screen 
+
+audio tag is used to insert audio and preload is main attribute of this
+
+
+controls are used to provide controls o the 
+audio or video
+
+forms tag is peice of paper
+is used to make inputs 
+place holder is used to inform about what to enter 
+in radio input we select only one 
+sp we use name tag with same attribute
+id is used for refrence the TAG
+so we make label tag with for="ref id"
+and text so if we click the text the condition is selected
+
+how the madatory option
+
+we use required attri for mandatory
+ 
+
+ details tag 
+ summary is used to head the drop tag
+ and we use <p> tag to give drop down items</p>
+
+ meta tags
+ titi
+
+ add discricription to website
+ 
+ 
