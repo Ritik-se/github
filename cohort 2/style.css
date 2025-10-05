@@ -1,0 +1,48 @@
+font-face{
+    font-family: creepster;
+    src:url(./Creepster-Regular.ttf)
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+
+h1{
+    color: red;
+    background-color: yellow;
+    font-size:50px;
+    font-family: creepster;
+    font-weight:100;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+p{
+    color:red;
+    background-color: beige;
+    font-size:80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: initial;
+    text-align: left;
+    text-transform: capitalize;
+
+}
+/* id is denoted by hashtag */
+#hero{ 
+    color:blue;
+}
+.lnct{
+    color:green;
+}
+#{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+}
